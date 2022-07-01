@@ -65,4 +65,4 @@ sudo expo start
 
 ## ✍️ Authors 
 
--  Made by Breno.
+-  Made by Breno
