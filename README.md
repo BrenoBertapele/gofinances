@@ -63,6 +63,8 @@ sudo expo start
 -  How to use React Hook Form and it's importance;
 -  How to integrate buttons with React Native Gesture Handler and it's importance.
 
-## ✍️ Authors 
+-----
+
+## ✍️ Author
 
 -  Made by Breno
